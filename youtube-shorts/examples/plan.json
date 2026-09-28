@@ -1,0 +1,51 @@
+{
+  "channel_url": "https://www.youtube.com/@apigatewayph",
+  "source": "source/source.mp4",
+  "source_url": "https://www.youtube.com/watch?v=VIDEO_ID",
+  "ranges": [
+    {
+      "start": 30,
+      "end": 34
+    },
+    {
+      "start": 10,
+      "end": 30
+    }
+  ],
+  "headline": "動画の内容に合わせた見出し",
+  "post_title": "内容に即した投稿タイトル",
+  "description": "実際の発言に基づく概要。条件・留保を含める。",
+  "selection_reason": "説明用サンプル。時刻・文言は実素材に置き換える。",
+  "overlays": [
+    {
+      "start": 0,
+      "end": 4,
+      "text": "購入者の結論｜ダイジェスト",
+      "y": 45,
+      "size": 46,
+      "color": "FFFFFF"
+    },
+    {
+      "start": 0,
+      "end": 24,
+      "text": "なぜこの物件を\n選んだのか？\n購入の決め手とは",
+      "y": 180,
+      "size": 128,
+      "color": "FF2538",
+      "outline_color": "FFFFFF",
+      "border": 8,
+      "shadow": 3
+    },
+    {
+      "start": 0,
+      "end": 24,
+      "text": "本人が語る\n購入を決めた理由",
+      "y": 1320,
+      "size": 105,
+      "color": "FFE600",
+      "outline_color": "161000",
+      "border": 6,
+      "shadow": 3
+    }
+  ]
+}

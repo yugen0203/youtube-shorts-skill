@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTubeショート切り抜き"
+  short_description: "YouTubeやローカル動画を分析し、指定区間を縦型・日本語字幕付きで書き出す"
+  default_prompt: "$youtube-shorts を使って、このYouTube動画を分析し、指定した区間を字幕付きショート動画にしてください。"
